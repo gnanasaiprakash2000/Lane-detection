@@ -6,7 +6,7 @@ Traditional computer vision methods such as **Hough Transform** can only detect 
 This project uses a **Deep Learning–based approach (U-Net)** to achieve more accurate and robust lane detection.
 
 ---
-![image alt]()
+![image alt](images/UNet.png)
 
 ## 📘 Description
 
