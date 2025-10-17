@@ -84,4 +84,5 @@ Training parameters used:
 
 
 ---
-[image alt](images/IMG_20251018_002951.png)
+![image alt](images/UNet.png)
+
