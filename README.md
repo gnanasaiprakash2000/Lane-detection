@@ -85,14 +85,3 @@ Training parameters used:
 
 ---
 
-## 🧪 Testing & Inference
-
-You can directly test the trained model using the provided **weights file**:  
-➡️ `Lane_Model_2.h5`
-
-Also, find the **`inference_unet.ipynb`** file for testing/inference.
-
-### 🔍 How to Test
-1. Download `inference_unet.ipynb` and load the saved weights:  
-   ```python
-   model.load_weights("Lane_Model_2.h5")
