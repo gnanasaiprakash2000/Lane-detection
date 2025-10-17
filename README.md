@@ -20,7 +20,7 @@ This architecture effectively improves both **accuracy** and **real-time perform
 
 **U-Net Architecture Overview:**
 
-![UNet Architecture](assets/unet_architecture.png)
+![image alt](images/UNet.png)
 
 ---
 
