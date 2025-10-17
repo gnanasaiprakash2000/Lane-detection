@@ -23,17 +23,17 @@ The dataset contains **12,764 images** with corresponding lane masks.
  
   - Each image has a resolution of **80 × 160** pixels:
   - - Input images → **3 channels (RGB)**
-    - - Label images → **1 channel (grayscale mask)**
+  - - Label images → **1 channel (grayscale mask)**
      
-      - **Example from Dataset:**
+ - **Example from Dataset:**
      
-      - ![Dataset Sample](assets/dataset_sample.png)
+- ![Dataset Sample](assets/dataset_sample.png)
      
       - ---
 
-      ## ⚙️ Preprocessing
+## ⚙️ Preprocessing
 
-      Since U-Net expects square inputs, all images were resized to **224 × 224**.
+ Since U-Net expects square inputs, all images were resized to **224 × 224**.
 
       ```python
       # Example: Resize images to 224x224
