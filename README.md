@@ -84,4 +84,3 @@ Training parameters used:
 
 
 ---
-[image alt](https://github.com/gnanasaiprakash2000/Lane-detection/blob/5ca86e255757c5b3c17e57c99c9d4f37249793b5/images/291383146-2dc80427-82b1-4367-8bd3-96978ec7533f.png)
