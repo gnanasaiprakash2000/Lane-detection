@@ -36,9 +36,7 @@ The **TuSimple dataset** is a large-scale benchmark dataset widely used for **la
   - Testing: 2,782 images  
 - **Conditions:** Includes images under varying **weather** and **lighting** conditions.
 
-**Sample Image:**
 
-![TuSimple Sample](assets/tusimple_sample.png)
 
 ### 📥 Downloads
 
