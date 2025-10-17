@@ -19,7 +19,7 @@ By learning pixel-wise classification, the model can detect lane markings more e
 The dataset contains **12,764 images** with corresponding lane masks.
 
 - 🖼️ **Images:** [Download Here](https://www.dropbox.com/s/rrh8lrdclzlnxzv/full_CNN_train.p?dl=0)
-- - 🏷️ **Labels:** [Download Here](https://www.dropbox.com/s/ak850zqqfy6ily0/full_CNN_labels.p?dl=0)
+  🏷️ **Labels:** [Download Here](https://www.dropbox.com/s/ak850zqqfy6ily0/full_CNN_labels.p?dl=0)
  
   - Each image has a resolution of **80 × 160** pixels:
   - - Input images → **3 channels (RGB)**
