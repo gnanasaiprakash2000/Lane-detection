@@ -48,7 +48,7 @@ The **TuSimple dataset** is a large-scale benchmark dataset widely used for **la
 
 ## ⚙️ Getting Started
 
-To run this project, you can download the **`UNET.ipynb`** file from this repository and the dataset from the links above.  
+To run this project, you can download the **`Lane detection.ipynb`** file from this repository and the dataset from the links above.  
 You can implement the full workflow in **Kaggle** or **Google Colab**.
 
 ### 🔧 Requirements
