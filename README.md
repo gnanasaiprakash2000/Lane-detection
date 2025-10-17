@@ -81,9 +81,7 @@ Training parameters used:
 | Accuracy | High |
 | Loss | Low |
 
-**Training Process Visualization:**
 
-![Training Graph](assets/training_metrics.png)
 
 ---
 
