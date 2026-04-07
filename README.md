@@ -39,3 +39,6 @@ The model is trained on **TuSimple Preprocessed Lane Detection Dataset**.
 ### Dataset Path Used:
 ```python
 train_path = '/kaggle/input/tusimple-preprocessed-data/tusimple_preprocessed/training'
+
+
+![image alt](Images/IMG_20251017_090710.jpg)
