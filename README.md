@@ -29,7 +29,8 @@ It consists of:
 - **Skip Connections** → preserve fine details for accurate segmentation
 
 This makes UNET highly effective for detecting lane boundaries in road scenes.
-
+---
+![image alt](Images/IMG_20251017_090710.jpg)
 ---
 
 ## 📂 Dataset
@@ -40,5 +41,4 @@ The model is trained on **TuSimple Preprocessed Lane Detection Dataset**.
 ```python
 train_path = '/kaggle/input/tusimple-preprocessed-data/tusimple_preprocessed/training'
 
----
-![image alt](Images/IMG_20251017_090710.jpg)
+
